@@ -1,2 +1,2 @@
-# Life-Gesture-Controlled_Vector_Granulation_Synth
+# Live_Gesture-Controlled_Vector_Granulation_Synth
 LEAP Motion controlled granulator made with ofxATK
